@@ -15,6 +15,10 @@ Ultra-fast Windows command bar with AI integration. Search files instantly, conv
 
 </div>
 
+<p align="center">
+  <img src="assets/lucidarc-presentation.png" alt="LucidArc Presentation" width="800">
+</p>
+
 ---
 
 ## What is LucidArc?
@@ -72,6 +76,10 @@ web: github.com
 web: coffee shops near me?
 ```
 
+<p align="center">
+  <img src="assets/lucidarc-webmode.png" alt="AI Web Browsing" width="700">
+</p>
+
 ### 📋 **Intelligent Clipboard Manager**
 Never lose track of your clipboard. LucidArc remembers everything you copy with:
 - **Searchable History:** Find any past clip instantly
@@ -91,6 +99,10 @@ Integrated AI assistant powered by LucidQuery's advanced models:
 - Generate creative content
 - Answer questions with web search
 
+<p align="center">
+  <img src="assets/lucidarc-ai.png" alt="Natural Language AI" width="700">
+</p>
+
 ### ⚡ **Instant Features**
 Quick access to powerful utilities:
 - **App Launcher:** Launch any application instantly
@@ -98,6 +110,10 @@ Quick access to powerful utilities:
 - **Color Converter:** RGB to HEX and vice versa
 - **Workflow Automation:** Chain commands together (Pro)
 - **Text Snippets:** Expand frequently used text (Pro)
+
+<p align="center">
+  <img src="assets/lucidarc-instant.png" alt="Instant Features" width="700">
+</p>
 
 ---
 
