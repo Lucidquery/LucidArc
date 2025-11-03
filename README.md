@@ -160,14 +160,14 @@ sqrt(144)                       → Mathematical functions
 ### AI Commands
 ```
 web: latest React features?     → AI browses and finds answer
-Translate "Hello" to French     → Language translation
+"Hello" to French ?             → Language translation
 Summarize: [paste article]      → Content summarization
-Write a function to sort array  → Code generation
+function to sort array in py?   → Code generation
 ```
 
 ### Clipboard
 ```
-clipboard:                      → View clipboard history
+clipboard:                      → View clipboard history, manage them, pin, run AI on clips in one click
 clipboard: refactor             → Refactor selected code clip
 clipboard: translate to Spanish → Translate any clip
 ```
@@ -187,33 +187,6 @@ clipboard: translate to Spanish → Translate any clip
 | `Tab` | Autocomplete suggestion |
 
 *All shortcuts are customizable in Settings (Pro)*
-
----
-
-## Pricing
-
-### Free Plan
-- Core search & app launcher
-- Built-in calculator
-- Clipboard history (20 items)
-- AI commands (3 per day)
-- Instant feature access
-- Currency & unit conversion
-
-### Pro Plan - €10.99/month
-- **Everything in Free, plus:**
-- Unlimited AI queries
-- Workflows & automation
-- Web Mode access
-- Extended clipboard history (500 items)
-- Cloud sync & backup
-- Custom theming
-- Priority support
-
-### Alpha Testing Reward
-Join our open Alpha and get **up to 1 year free of Pro Plan** access across our entire platform.
-
-[View Pricing Details →](https://lucidquery.com/lucidarc/#pricing)
 
 ---
 
