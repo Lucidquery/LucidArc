@@ -6,7 +6,7 @@
 
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?logo=windows&logoColor=white)](https://lucidquery.com/lucidarc/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0.1%20Alpha-EC4899)](https://lucidquery.com/lucidarc/)
+[![Version](https://img.shields.io/badge/Version-1.0.2%20Alpha-EC4899)](https://lucidquery.com/lucidarc/)
 [![Built with Go](https://img.shields.io/badge/Built%20with-Go-00ADD8?logo=go&logoColor=white)](https://golang.org/)
 
 Ultra-fast Windows command bar with AI integration. Search files instantly, convert currencies/units, calculate expressions, manage clipboard history, and access AI for translation, code generation & web browsing.
