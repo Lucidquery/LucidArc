@@ -213,38 +213,6 @@ clipboard: translate to Spanish → Translate any clip
 - **LucidQuery AI** - Advanced AI models for natural language processing
 - **Native Windows APIs** - Deep system integration
 
----
-
-## Development
-
-### Prerequisites
-- Go 1.21 or higher
-- Node.js 16+ (for frontend development)
-- Wails CLI (`go install github.com/wailsapp/wails/v2/cmd/wails@latest`)
-
-### Running Locally
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/LucidArc.git
-cd LucidArc
-
-# Run in development mode
-wails dev
-
-# Build for production
-wails build
-```
-
-### Project Structure
-```
-.
-├── main.go              # Application entry point
-├── app.go               # Backend logic
-├── frontend/            # Frontend React/Vue code
-├── build/               # Build outputs
-└── wails.json           # Wails configuration
-```
 
 ---
 
@@ -280,18 +248,6 @@ A: Yes! Customize hotkeys, themes, and behavior in Settings (Pro plan).
 
 **Q: How fast is it really?**
 A: Built in Go and optimized for performance, LucidArc typically responds in <10ms for local operations (file search, launching) and <100ms for calculations. AI features depend on network latency but are heavily optimized.
-
----
-
-## Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ---
 
