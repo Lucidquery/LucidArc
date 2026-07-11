@@ -281,7 +281,7 @@ Built with passion by the [LucidQuery](https://lucidquery.com) team.
 
 <div align="center">
 
-**[Download LucidArc](https://lucidquery.com/lucidarc/)** • **[Join Alpha Testing](https://lucidquery.com/lucidarc/#pricing)**
+**[Download LucidArc](https://lucidquery.com/lucidarc/)**
 
 Made for Performance by [LucidQuery](https://lucidquery.com)
 
