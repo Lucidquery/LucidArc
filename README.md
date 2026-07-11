@@ -16,7 +16,7 @@ Ultra-fast Windows command bar with AI integration. Search files instantly, conv
 </div>
 
 <p align="center">
-  <img src="assets/lucidarc-presentation.png" alt="LucidArc Presentation" width="800">
+  <img src="assets/lucidarc-presentation.png?v=2" alt="LucidArc Presentation" width="800">
 </p>
 
 ---
@@ -49,6 +49,10 @@ modified:week
 path:projects/client
 ```
 
+<p align="center">
+  <img src="assets/lucidarc-search2.png?v=2" alt="Instant PDF Search" width="700">
+</p>
+
 ### 💱 **Currency & Unit Conversion**
 Convert currencies and units instantly without opening a browser or calculator.
 
@@ -77,7 +81,7 @@ web: coffee shops near me?
 ```
 
 <p align="center">
-  <img src="assets/lucidarc-webmode.png" alt="AI Web Browsing" width="700">
+  <img src="assets/lucidarc-webmode.png?v=2" alt="AI Web Browsing" width="700">
 </p>
 
 ### 📋 **Intelligent Clipboard Manager**
@@ -100,7 +104,7 @@ Integrated AI assistant powered by LucidQuery's advanced models:
 - Answer questions with web search
 
 <p align="center">
-  <img src="assets/lucidarc-ai.png" alt="Natural Language AI" width="700">
+  <img src="assets/lucidarc-ai.png?v=2" alt="Natural Language AI" width="700">
 </p>
 
 ### ⚡ **Instant Features**
@@ -112,7 +116,7 @@ Quick access to powerful utilities:
 - **Text Snippets:** Expand frequently used text (Pro)
 
 <p align="center">
-  <img src="assets/lucidarc-instant.png" alt="Instant Features" width="700">
+  <img src="assets/lucidarc-instant.png?v=2" alt="Instant Features" width="700">
 </p>
 
 ---
