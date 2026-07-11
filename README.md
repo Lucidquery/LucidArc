@@ -11,7 +11,7 @@
 
 Ultra-fast Windows command bar with AI integration. Search files instantly, convert currencies/units, calculate expressions, manage clipboard history, and access AI for translation, code generation & web browsing.
 
-[Download](https://lucidquery.com/lucidarc/) • [Features](#features) • [Getting Started](#getting-started) • [Documentation](#documentation)
+[Download](https://lucidquery.com/lucidarc/) • [Features](#features) • [Getting Started](#getting-started)
 
 </div>
 
@@ -258,7 +258,6 @@ A: Built in Go and optimized for performance, LucidArc typically responds in <10
 ## Support
 
 - **Website:** [lucidquery.com/lucidarc](https://lucidquery.com/lucidarc/)
-- **Documentation:** [docs.lucidquery.com](https://docs.lucidquery.com)
 - **Issues:** [GitHub Issues](https://github.com/yourusername/LucidArc/issues)
 - **Email:** contact@lucidquery.com
 
@@ -275,6 +274,7 @@ LucidArc is licensed under the [MIT License](LICENSE).
 Built with passion by the [LucidQuery](https://lucidquery.com) team.
 
 **AI Models:** Powered by LucidQuery's hybrid intelligence architecture
+
 **Community:** Thanks to all our alpha testers and contributors
 
 ---
@@ -283,6 +283,6 @@ Built with passion by the [LucidQuery](https://lucidquery.com) team.
 
 **[Download LucidArc](https://lucidquery.com/lucidarc/)** • **[Join Alpha Testing](https://lucidquery.com/lucidarc/#pricing)**
 
-Made with ⚡ by [LucidQuery](https://lucidquery.com)
+Made for Performance by [LucidQuery](https://lucidquery.com)
 
 </div>
